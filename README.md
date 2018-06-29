@@ -13,6 +13,6 @@ https://www.youtube.com/channel/UCxcnsr1R5Ge_fbTu5ajt8DQ.
 3. Use a machine learning classifier to predict popularity (viral or not) on YouTube based on painting subject matter: https://github.com/mskaerthomason/Springboard-Capstone_Bob-Ross/blob/master/notebooks/model%20train.ipynb
 
 ### Final products:
-Please view my summary slides here: (TBD)
+Please view my summary slides here: https://github.com/mskaerthomason/Springboard-Capstone_Bob-Ross/blob/master/Capstone2_slides.pdf
 
 
